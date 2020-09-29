@@ -1,0 +1,2 @@
+# CustomerSegRFM
+Customer segmentation
